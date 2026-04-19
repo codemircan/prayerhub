@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "Prayer Times",
+    "tagline": "Accurate prayer times for everywhere"
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "monthly": "Monthly",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "prayers": {
+    "fajr": "Dawn (Fajr)",
+    "sunrise": "Sunrise",
+    "dhuhr": "Noon (Dhuhr)",
+    "asr": "Afternoon (Asr)",
+    "maghrib": "Sunset (Maghrib)",
+    "isha": "Night (Isha)",
+    "imsak": "Imsak"
+  },
+  "home": {
+    "nextPrayer": "Next Prayer",
+    "timeRemaining": "Time Remaining",
+    "hijriDate": "Hijri Date",
+    "location": "Location"
+  },
+  "search": {
+    "placeholder": "Search for a city...",
+    "recentSearches": "Recent Searches",
+    "noResults": "No cities found"
+  },
+  "monthly": {
+    "title": "Monthly Prayer Times",
+    "exportCsv": "Export CSV",
+    "date": "Date"
+  },
+  "qibla": {
+    "title": "Qibla Direction",
+    "degrees": "degrees from North",
+    "distance": "km to Kaaba"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "method": "Calculation Method",
+    "timeFormat": "Time Format",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "12h": "12 Hour",
+    "24h": "24 Hour"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "offline": "You are offline — showing cached data"
+  },
+  "location": {
+    "permissionTitle": "Allow Location Access",
+    "permissionDesc": "We need your location to show accurate prayer times",
+    "allowButton": "Allow Location",
+    "searchInstead": "Search for a city instead",
+    "detecting": "Detecting your location..."
+  }
+}
