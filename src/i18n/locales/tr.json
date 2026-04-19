@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "Namaz Vakitleri",
+    "tagline": "Her yer için doğru namaz vakitleri"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "search": "Ara",
+    "monthly": "Aylık",
+    "settings": "Ayarlar",
+    "about": "Hakkında"
+  },
+  "prayers": {
+    "fajr": "Sabah (İmsak)",
+    "sunrise": "Güneş",
+    "dhuhr": "Öğle",
+    "asr": "İkindi",
+    "maghrib": "Akşam",
+    "isha": "Yatsı",
+    "imsak": "İmsak"
+  },
+  "home": {
+    "nextPrayer": "Sıradaki Ezan",
+    "timeRemaining": "Kalan Süre",
+    "hijriDate": "Hicri Tarih",
+    "location": "Konum"
+  },
+  "search": {
+    "placeholder": "Şehir ara...",
+    "recentSearches": "Son Aramalar",
+    "noResults": "Şehir bulunamadı"
+  },
+  "monthly": {
+    "title": "Aylık Namaz Vakitleri",
+    "exportCsv": "CSV Olarak İndir",
+    "date": "Tarih"
+  },
+  "qibla": {
+    "title": "Kıble Yönü",
+    "degrees": "Kuzeyden derece",
+    "distance": "Kabe'ye olan mesafe (km)"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "method": "Hesaplama Yöntemi",
+    "timeFormat": "Zaman Formatı",
+    "theme": "Tema",
+    "dark": "Karanlık",
+    "light": "Aydınlık",
+    "12h": "12 Saat",
+    "24h": "24 Saat"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler yanlış gitti",
+    "retry": "Tekrar Dene",
+    "offline": "Çevrimdışısınız — önbellekteki veriler gösteriliyor"
+  },
+  "location": {
+    "permissionTitle": "Konum Erişimine İzin Ver",
+    "permissionDesc": "Doğru namaz vakitlerini göstermek için konumunuza ihtiyacımız var",
+    "allowButton": "Konuma İzin Ver",
+    "searchInstead": "Bunun yerine şehir ara",
+    "detecting": "Konumunuz tespit ediliyor..."
+  }
+}
